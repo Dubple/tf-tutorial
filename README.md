@@ -19,7 +19,7 @@ machine.](install-ubuntu.md)
 
 _Note that TensorFlow is not currently supported natively on Windows._
 
-If you run into trouble, our full install instrictions are available
+If you run into trouble, our full install instructions are available
 on http://tensorflow.org.
 
 
